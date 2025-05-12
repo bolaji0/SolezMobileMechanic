@@ -42,20 +42,20 @@ const services = [
 const testimonials = [
   {
     rating: 5,
-    text: "Great mechanic! Got an engine swap done on my Honda Civic. The guy has amazing knowledge about cars!",
-    name: "James Wilson",
+    text: "Brilliant service..he came to see my wheichle 9.30 pm . Took his time and explained everything about my wheichle potential problems. Highly recommend!",
+    name: "tomas jurkstas",
     location: "London"
   },
   {
     rating: 5,
-    text: "Fantastic service! They came to my office parking lot and fixed my brake pads during my work hours. Saved me so much time!",
-    name: "Sarah Thompson",
+    text: "Solez Mechanics provided exceptional service – fast, affordable, and transparent. They fixed my car fast and at an unbeatable price and kept me updated with photos and videos throughout the repair process. Highly recommend Suleman for his top-notch service and honesty!",
+    name: "Ronja Kunzmann",
     location: "Croydon"
   },
   {
     rating: 4.5,
-    text: "Had my clutch replaced at home. The mechanic was professional, worked cleanly and explained everything. Very reasonable price too!",
-    name: "David Parker",
+    text: "Highly recommended, turned up at the agreed time to fix a locking rod issue on my BMW 640i, reasonable fair cost. Will use again in the future.",
+    name: "Ahmed Khan",
     location: "Wimbledon"
   }
 ];
